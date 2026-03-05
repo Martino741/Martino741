@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Martino 👋
 
-<!--
-**Martino741/Martino741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a master's student in Aerospace Engineering with a strong interest in technology and programming. I enjoy learning how software and engineering can be used to solve real-world problems.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's student in Aerospace Engineering  
+- 💻 Learning programming and software development  
+- 🌍 Originally from Benin, currently studying in India  
+- 🚀 Interested in AI, data, and technology for development  
+- 📚 Always exploring new tools and technologies  
+
+## Skills I'm working with
+
+- C programming  
+- Python  
+- SQL  
+- MATLAB  
+- Git & GitHub  
+
+## What I'm currently doing
+
+Right now I'm working on improving my programming skills and building small projects to better understand software development and data analysis. I'm also interested in projects that combine technology with social impact.
+
+## Projects
+
+Some things you'll find in my repositories:
+
+- C programming exercises  
+- Small software projects  
+- Experiments with APIs and data  
+- Engineering and simulation work  
+
+## Connect with me
+
+LinkedIn:www.linkedin.com/in/jeannot-martino-vignigbe-bb788523a  
+Email: jeannotvignigbe@gmail.com
